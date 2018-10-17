@@ -9,7 +9,7 @@ public class Kitty{
   }
 
   public Kitty(){
-
+    
   }
 
   public String getName(){
